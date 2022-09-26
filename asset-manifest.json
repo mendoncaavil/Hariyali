@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Hariyali/static/css/main.e9566218.css",
-    "main.js": "/Hariyali/static/js/main.40a6e6fa.js",
+    "main.css": "/Hariyali/static/css/main.19b0d543.css",
+    "main.js": "/Hariyali/static/js/main.a421f45e.js",
     "static/media/Instagram.svg": "/Hariyali/static/media/Instagram.f36223f78989b5988dd657007be78526.svg",
     "static/media/Twitter.svg": "/Hariyali/static/media/Twitter.cd703aac265440ea07ab93b81038ce2c.svg",
     "index.html": "/Hariyali/index.html",
     "static/media/Facebook.svg": "/Hariyali/static/media/Facebook.42c97ed08b47c156d161504ab91b7a31.svg",
     "static/media/LinkedIn.svg": "/Hariyali/static/media/LinkedIn.413ccf71068d9ffb29473644bac6b5d4.svg",
-    "main.e9566218.css.map": "/Hariyali/static/css/main.e9566218.css.map",
-    "main.40a6e6fa.js.map": "/Hariyali/static/js/main.40a6e6fa.js.map"
+    "main.19b0d543.css.map": "/Hariyali/static/css/main.19b0d543.css.map",
+    "main.a421f45e.js.map": "/Hariyali/static/js/main.a421f45e.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9566218.css",
-    "static/js/main.40a6e6fa.js"
+    "static/css/main.19b0d543.css",
+    "static/js/main.a421f45e.js"
   ]
 }
