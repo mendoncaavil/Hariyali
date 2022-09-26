@@ -1,0 +1,39 @@
+html{
+    font-size: 62.5%;
+}
+
+.home-category-container{
+    margin: 30px;
+
+}
+
+.category-row{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    text-align: center;
+    border-radius:0 0 15px 15px;
+}
+
+.category-row h4{
+    margin: 10px 0 15px 0;
+    font-weight: 400;
+    
+}
+
+.category-card:hover{
+    transition: 0.2s ease-in;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.5) 0px 8px 16px -8px;
+    border-radius:0 0 15px 15px;
+}
+
+.section-heading{
+    font-size: 1.5rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+}
+
+/* .category-row img{
+    border-radius:0 0 15px 15px;
+
+}  */

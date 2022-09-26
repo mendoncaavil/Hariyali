@@ -1,0 +1,42 @@
+html{
+    font-size: 62.5%;
+}
+
+.navigation-bar{
+    background-color: #FFF6F4;
+    padding: 1rem 2rem;
+    
+}
+
+.navigation-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.navigation-brand a{
+    font-size: 2.5rem;
+    font-weight: 600;
+    color: #000;
+    text-decoration: none;
+}
+
+.navigation-list{
+
+    display: flex;
+    list-style: none;
+    gap: 1rem;
+}
+
+.navigation-list a{
+    text-decoration: none;
+    color: #020202;
+    font-size: 1.8rem;
+}
+
+.navigation-list a:hover{
+    color: #299B62;
+    transition: 0.3s;
+    text-decoration-line: underline;
+}
